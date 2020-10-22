@@ -1,0 +1,1 @@
+This is simple digital clock made of Reactjs it shows correct time i am happy to sharing this
